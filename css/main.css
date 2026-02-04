@@ -118,6 +118,10 @@ th {
   background-color: #f0e9e9;
 }
 
+.col12 { background-color: #f5b0b0; }
+.col13 { background-color: #fdf6e3; }
+.col14 { background-color: #abedc2; }
+
 .invisible-btn{
   visibility: hidden !important;
 }
