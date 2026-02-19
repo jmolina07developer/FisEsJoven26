@@ -59,8 +59,8 @@ function addParticipant(table, participante){
 
 const participantes =  [
         {
-         "NOMBRE": "Nuria Richer Gusano",
-         "TITULO": "Adaptive and Trustworthy Load Forecasting via Online Expert Selection and Conformal Prediction",
+         "NOMBRE": "Elena García de Lamo",
+         "TITULO": "Data-Driven Stochastic Modeling of Fish Schools in Confined Spaces",
          "SLOT": 1,
          "NOMBRE_SLOT": " ",
          "HORA": "15:30:00",
@@ -379,8 +379,8 @@ const participantes2 = [
             "NUMERO": 29
            },
            {
-            "NOMBRE": "Leo Pérez Peña",
-            "TITULO": "The role of autocatalytic chemistry on protocell growth",
+            "NOMBRE": "Ylann Rouzaire",
+            "TITULO": "Topological defects in 2D active models",
             "SLOT": 10,
             "NOMBRE_SLOT": " ",
             "HORA": "18:56",
@@ -400,8 +400,8 @@ const participantes3 = [
         "NUMERO": 31
        },
        {
-        "NOMBRE": "Ylann Rouzaire",
-        "TITULO": "Topological defects in 2D active models",
+        "NOMBRE": "Leo Pérez Peña",
+        "TITULO": "The role of autocatalytic chemistry on protocell growth",
         "SLOT": 11,
         "NOMBRE_SLOT": " ",
         "HORA": "15:43:00",
@@ -493,8 +493,8 @@ const participantes3 = [
            "NUMERO": "-"
           },
        {
-        "NOMBRE": "Elena García de Lamo",
-        "TITULO": "Data-Driven Stochastic Modeling of Fish Schools in Confined Spaces",
+        "NOMBRE": "Nuria Richer Gusano",
+        "TITULO": "Adaptive and Trustworthy Load Forecasting via Online Expert Selection and Conformal Prediction",
         "SLOT": 14,
         "NOMBRE_SLOT": " ",
         "HORA": "17:50:00",
