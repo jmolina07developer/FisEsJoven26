@@ -486,7 +486,7 @@ const participantes3 = [
        
           {
            "NOMBRE": " ",
-           "TITULO": "Descanso",
+           "TITULO": ".",
            "SLOT": "-",
            "NOMBRE_SLOT": "-",
            "HORA": "17:30:00",
