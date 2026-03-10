@@ -434,8 +434,8 @@ const participantes3 = [
         "NUMERO":34
         },
         {
-        "NOMBRE": "Mikel Ocio Moliner",
-        "TITULO": "Criticality in in silico and in vitro neuronal networks",
+        "NOMBRE": "Alberto Pérez Mugía",
+        "TITULO": "Molecular complexity in out-of-equilibrium physical-chemical environments in the interstellar medium",
         "SLOT": 12,
         "NOMBRE_SLOT": " ",
         "HORA": "16:23:00",
